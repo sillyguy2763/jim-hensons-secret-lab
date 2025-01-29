@@ -1,7 +1,7 @@
 @font-face {
-  font-family: 'Muppet Font';
-  src: url('The Muppet Font.otf');
+  font-family: 'Muppets';
+  src: url('The-Muppet-Font.otf');
 
 body {
-    font-family: "Muppet Font";
+    font-family: "Muppets";
     text-align: center;
