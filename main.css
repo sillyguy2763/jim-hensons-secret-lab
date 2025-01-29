@@ -1,3 +1,7 @@
-  body {
-    font-family: "Comic Sans MS";
+@font-face {
+  font-family: 'Muppet Font';
+  src: url('The Muppet Font.otf');
+
+body {
+    font-family: "Muppet Font";
     text-align: center;
